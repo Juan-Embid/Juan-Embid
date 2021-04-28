@@ -4,7 +4,7 @@ Learning C++, C, VHDL, ARM, MIPS and Python.
 
 I’m looking to collaborate on any AWS, AI or cybersecurity related proyect. 
 
-I’m looking for help with anything, just get in touch with me. 
+If you are looking for help with anything, just get in touch with me. 
 
 juan.embid@protonmail.com
 
