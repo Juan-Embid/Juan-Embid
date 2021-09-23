@@ -1,6 +1,6 @@
 Currently studying in Complutense University of Madrid.
 
-Learning C++, C, VHDL, ARM, MIPS and Python.
+Learning C++, C, VHDL, ARM, MIPS, Python, Java and SQL.
 
 I’m looking to collaborate on any AWS, AI or cybersecurity related proyect. 
 
