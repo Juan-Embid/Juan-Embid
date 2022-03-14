@@ -10,6 +10,3 @@ Fun fact: Visited two supercomputer centers, a nuclear fusion reactor and seen C
 
 ![](https://komarev.com/ghpvc/?username=Juan-Embid&color=ffabb7&style=flat-square)
 <sup>since 22/2/2022</sup>
-
-
-https://wakatime.com/badge/user/488c838b-faea-4515-a9d8-8b287a14e316.svg
