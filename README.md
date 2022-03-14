@@ -10,3 +10,4 @@ Fun fact: Visited two supercomputer centers, a nuclear fusion reactor and seen C
 
 [![GitHub followers](https://img.shields.io/github/followers/juan-embid?label=Juan-Embid&logo=github&style=social)](https://github.com/juan-embid)
 ![GitHub](https://img.shields.io/telegram?label=Juan_Embid&logo=telegram&style=social)
+![Twitter URL](https://img.shields.io/twitter/url?label=Juan_Embid&logo=Telegram&style=social)
