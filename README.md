@@ -9,4 +9,4 @@ Fun fact: Visited two supercomputer centers, a nuclear fusion reactor and seen C
 <sup>since 22/2/2022</sup>
 
 [![GitHub followers](https://img.shields.io/github/followers/juan-embid?label=Juan-Embid&logo=github&style=social)](https://github.com/juan-embid)
-![GitHub followers](https://img.shields.io/github/followers/juan-embid?label=Juan_Embid&logo=telegram&style=social)
+![GitHub](https://img.shields.io/telegram?label=Juan_Embid&logo=telegram&style=social)
