@@ -8,6 +8,5 @@ Fun fact: Visited two supercomputer centers, a nuclear fusion reactor and seen C
 [![](https://komarev.com/ghpvc/?username=Juan-Embid&color=ffabb7&style=flat-square)](https://github.com/juan-embid)
 <sup>since 22/2/2022</sup>
 
-[![GitHub followers](https://img.shields.io/github/followers/juan-embid?label=Juan-Embid&logo=github&style=social)](https://github.com/juan-embid)
+[[![](https://img.shields.io/badge/-@juan-embid-%23181717?style=flat-square&logo=github)](https://github.com/juan-embid)](https://github.com/juan-embid)
 ![GitHub](https://img.shields.io/telegram?label=Juan_Embid&logo=telegram&style=social)
-![Twitter URL](https://img.shields.io/twitter/url?label=Juan_Embid&logo=Telegram&style=social)
