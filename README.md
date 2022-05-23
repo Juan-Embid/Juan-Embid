@@ -4,7 +4,7 @@ Languages | FOSS Lover |
 
 Currently studying Software Engineering in Complutense University of Madrid.
 
-I’m looking to collaborate on any Aerospace, Defence, Security or Cybersecurity sectors.
+I’m looking to collaborate on any Aerospace, Defence, Security or Cybersecurity project.
   
 Fun fact: Visited two supercomputer centers, a nuclear fusion reactor and seen Cherenkov radiation
 
