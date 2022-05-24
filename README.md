@@ -15,9 +15,15 @@ ___
 
 My name is Juan Embid. I'm from Spain and currently studying Software Engineering in Complutense University of Madrid.
 
+I don't tend to stick to one programming language in particular. Instead, in order to make the best project I can, I take into account the architecture, quality of code, requirements, performance ...
+
 I’m looking to collaborate on any Aerospace, Defence, Security or Cybersecurity project.
   
+<details><summary>Advance</summary><br>
+    
 Fun fact: Visited two supercomputer centers, a nuclear fusion reactor and seen Cherenkov radiation
+   
+</details>
 
 ___
 
@@ -29,7 +35,17 @@ ___
 
 [![Embid's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-embid&show_icons=true&theme=github_dark&hide=stars)](https://github.com/juan-embid)
 
+<details><summary>Advance</summary><br>
+    
+*Note: Private repositories won't show up in the stats*
+    
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=juan-embid&theme=github-dark-blue" alt="Embid's Streaks" /></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-embid&layout=compact&theme=github_dark)
+  
+Advanced Github Stats : https://gitstats.me/juan-embid
+   
+</details>
 
 ___
 
