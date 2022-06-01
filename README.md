@@ -1,5 +1,5 @@
 <div>
-    <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi there! I'm J.Embid</h3>
+    <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30"> Hi there! I'm J.Embid</h3>
   
   <p align="center"> 
     <a href="https://t.me/juan_embid" target="_blank"> <img src="https://img.shields.io/badge/-@juan__embid-%23181717?style=flat-square&logo=telegram"> </a> 
