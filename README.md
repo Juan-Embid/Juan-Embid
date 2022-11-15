@@ -4,7 +4,7 @@
   <p align="center"> 
     <a href="https://t.me/juan_embid" target="_blank"> <img src="https://img.shields.io/badge/-@juan__embid-%23181717?style=flat-square&logo=telegram"> </a> 
     <a href="https://github.com/juan-embid" target="_blank"> <img src="https://img.shields.io/badge/-@juan--embid-%23181717?style=flat-square&logo=github"> </a> 
-    <a href="mailto:github@embid.dev" target="_blank"> <img src="https://img.shields.io/badge/-@juan.embid-%23181717?style=flat-square&logo=protonmail"> </a> 
+    <a href="mailto:github@embid.dev" target="_blank"> <img src="https://img.shields.io/badge/-@embid.dev-%23181717?style=flat-square&logo=protonmail"> </a> 
     <a href="https://linkedin.com/in/juan-embid-sánchez-365211169" target="_blank"> <img src="https://img.shields.io/badge/-@Juan%20Embid%20Sánchez-%23181717?style=flat-square&logo=linkedin"> </a>
   </p>
 </div>
