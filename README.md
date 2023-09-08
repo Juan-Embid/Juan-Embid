@@ -33,20 +33,13 @@ ___
 [![](https://komarev.com/ghpvc/?username=Juan-Embid&color=ffabb7&style=flat-square)](https://github.com/juan-embid)
 <sup>since 22/2/2022</sup>
 
-[![Embid's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-embid&show_icons=true&theme=github_dark&hide=stars)](https://github.com/juan-embid)
-
-<details><summary>Advance</summary><br>
     
 *Note: Private repositories won't show up in the stats*
     
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=juan-embid&theme=github-dark-blue" alt="Embid's Streaks" /></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-embid&layout=compact&theme=github_dark)
   
-Advanced Github Stats : https://gitstats.me/juan-embid
+Advanced Github Stats : https://wakatime.com/@embid
    
-</details>
-
 ___
 
 ## Other
