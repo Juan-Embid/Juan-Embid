@@ -2,44 +2,11 @@
     <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30"> Hi there! I'm J.Embid</h3>
   
   <p align="center"> 
-    <a href="https://t.me/juan_embid" target="_blank"> <img src="https://img.shields.io/badge/-@juan__embid-%23181717?style=flat-square&logo=telegram"> </a> 
     <a href="https://github.com/juan-embid" target="_blank"> <img src="https://img.shields.io/badge/-@juan--embid-%23181717?style=flat-square&logo=github"> </a> 
-    <a href="mailto:github@embid.dev" target="_blank"> <img src="https://img.shields.io/badge/-@embid.dev-%23181717?style=flat-square&logo=protonmail"> </a> 
     <a href="https://linkedin.com/in/embid" target="_blank"> <img src="https://img.shields.io/badge/-@Juan%20Embid%20Sánchez-%23181717?style=flat-square&logo=linkedin"> </a>
   </p>
 </div>
 
-___
-
-## About Me
-
-My name is Juan Embid. I'm from Spain and currently studying Software Engineering in Complutense University of Madrid.
-
-I don't tend to stick to one programming language in particular. Instead, in order to make the best project I can, I take into account the architecture, quality of code, requirements, performance ...
-
-I’m looking to collaborate on any Aerospace, Defence, Security or Cybersecurity project.
-  
-<details><summary>Advance</summary><br>
-    
-Fun fact: Visited two supercomputer centers, a nuclear fusion reactor and seen Cherenkov radiation
-   
-</details>
-
-___
-
-## Stats
-
-[![wakatime](https://wakatime.com/badge/user/488c838b-faea-4515-a9d8-8b287a14e316.svg)](https://wakatime.com/@488c838b-faea-4515-a9d8-8b287a14e316)
-[![](https://komarev.com/ghpvc/?username=Juan-Embid&color=ffabb7&style=flat-square)](https://github.com/juan-embid)
-<sup>since 22/2/2022</sup>
-
-    
-*Note: Private repositories won't show up in the stats*
-    
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=juan-embid&theme=github-dark-blue" alt="Embid's Streaks" /></p>
-  
-Advanced Github Stats : https://wakatime.com/@embid
-   
 ___
 
 ## Other
